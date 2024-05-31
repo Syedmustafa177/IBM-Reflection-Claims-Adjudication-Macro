@@ -5,3 +5,4 @@ Simply provide the DCN for each claim, and our macro will handle the rest, adher
 
 ![image](https://github.com/Syedmustafa177/IBM-Reflection-Claims-Adjudication-Macro/assets/113262233/9c370636-755f-4bcd-9be0-5f507fd86e0b)
 
+Due to company policies, we are unable to disclose the specifics of the project.
